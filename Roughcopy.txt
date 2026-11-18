@@ -1,0 +1,49 @@
+/*this is the first html i created*/
+<!DOCTYPE html>
+<html>
+    <title>Evolution of Goku Throughout the series</title>
+    <head>
+        <h1>Evolution of Goku Throughout the series</h1>
+        <img src="gokuforms.jpg" alt="image of different forms of goku" width="800">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h2>INTRODUCTION:</h2>
+        <p><em>Goku, the protagonist of the Dragon Ball franchise, is one of the most iconic characters in anime history. Born as Kakarot</br> on Planet Vegeta,he was sent to Earth as a baby. Throughout his journey, Goku constantly pushes beyond his limits, unlocking </br>powerful transformations that make him stronger.</em></p>
+
+        <h2>1.Base Form:</h2>
+        <img src="base.jpg" alt="image of base form goku" width="400">
+        <p><em>Goku's base form is his natural Saiyan state without any transformation. Although it may appear ordinary compared to his</br> other forms, Goku's base strength increases significantly through training and battles.</em></p>
+
+        <h2>2.Great Ape (oozaru)</h2>
+        <img src="oozaru.jpg" alt="image of oozaru form goku" width="400">
+        <p><em>The Great Ape transformation allows Saiyans with tails to transform into enormous ape-like creatures when exposed to</br> sufficient Blutz Waves, traditionally through a full moon. This transformation dramatically increases their physical strength</br> but can make them difficult to control.</em></p>
+
+        <h2>3.Super Saiyan</h2>
+        <img src="supersaiyan1.jpg" alt="image of supersaiyan Goku" width="400">
+        <p><em>One of the most legendary transformations in anime history. Goku first achieved Super Saiyan on Planet Namek after<br> witnessing Frieza kill Krillin. His hair turned golden, his eyes became turquoise, and his power increased tremendously.<br> This transformation marked a turning point in Dragon Ball Z.</em></p>
+
+        <h2>4.Super Saiyan 2:</h2>
+        <img src="supersaiyan2.jpg" alt="image of base form goku" width="400">
+        <p><em>Super Saiyan 2 is an advanced evolution of Super Saiyan. It features sharper golden hair and visible electrical sparks<br> surrounding the user. Goku achieved this form during his training in the Other World, and it provides a significant increase in power.</em></p>
+
+        <h2>5.Super Saiyan 3</h2>
+        <img src="supersaiyan3.jpg" alt="image of oozaru form goku" width="400">
+        <p><em>Super Saiyan 3 is one of Goku's most visually distinctive transformations. It gives him extremely long golden hair and<br> removes his eyebrows. The form provides enormous power but consumes energy rapidly, making it difficult to maintain.</em></p>
+
+        <h2>6.Super Saiyan god</h2>
+        <img src="supersaiyanred.jpg" alt="image of supersaiyan Goku" width="400">
+        <p><em>Super Saiyan God introduces Goku to divine energy known as God Ki. This transformation gives him red hair, a slimmer<br> appearance and a calm aura. Goku first achieved it through a ritual involving five righteous Saiyans sharing their energy with him.</em></p>
+
+        <h2>7.Super Saiyan blue</h2>
+        <img src="supersaiyanblue.jpg" alt="image of base form goku" width="400">
+        <p><em>Also known as Super Saiyan God Super Saiyan, this transformation combines the power of Super Saiyan God with the<br> Super Saiyan transformation. It gives Goku blue hair and allows him to use divine energy while transformed.</em></p>
+
+        <h2>8.Ultra Instinct</h2>
+        <img src="ultrainstinct.jpg" alt="image of oozaru form goku" width="400">
+        <p><em>Ultra Instinct is an extraordinary technique that allows Goku's body to react independently of conscious thought. Instead<br> of deliberately deciding how to dodge or attack, his body responds automatically. Its mastered form is recognizable by Goku's silver hair and eyes.</em></p>
+
+        <h2>Conclusion:</h2>
+        <p><em>Goku's transformations represent more than just increases in strength. Each form reflects his determination to improve, overcome challenges and<br> protect the people he cares about. From the legendary Super Saiyan transformation to the extraordinary Ultra Instinct, Goku's journey demonstrates<br> that there is always another limit to break.</em></p>
+    </body>
+</html>
